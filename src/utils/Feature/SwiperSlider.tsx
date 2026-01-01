@@ -2,6 +2,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import type { SwiperSlideProps } from "../../types";
 
 import { Navigation, Pagination, Autoplay, EffectFade } from "swiper/modules";
+import Image from "next/image";
 
 const SwiperSlider: React.FC<SwiperSlideProps> = ({ slides }) => {
   return (
@@ -17,12 +18,14 @@ const SwiperSlider: React.FC<SwiperSlideProps> = ({ slides }) => {
       }}
       className="w-full max-w-4xl h-96"
     >
-      {slides.map((slide, index) => (
-        <SwiperSlide key={index}>
-          <img
+      {slides.map((slide) => (
+        <SwiperSlide key={slide.url}>
+          <Image
             src={slide.url}
-            alt={slide.alt}
+            alt={slide.alt ?? ""}
             className="w-full h-full object-cover rounded-2xl"
+            width={400}
+            height={400}
           />
         </SwiperSlide>
       ))}
