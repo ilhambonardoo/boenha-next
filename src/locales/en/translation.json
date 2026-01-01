@@ -1,0 +1,332 @@
+{
+  "nav": {
+    "home": "Home",
+    "lini_bisnis": "Business Lines",
+    "products": "Products",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Provider of Basic Needs Solutions & Local Economic Development",
+    "intro": "Premium Agribusiness, Trading of Consumption Needs, and Community Empowerment Partnerships",
+    "about": "CV. Boenha Makmur Utama is a specialist in the cultivation and supply of high-quality free-range chicken. We have modern farming systems with strict hygiene standards to ensure the best product quality.",
+    "btnProducts": "View Our Products",
+    "btnContact": "Contact Us",
+    "pillarTitle": "Our Three Business Pillars",
+    "readMore": "Read More",
+    "close": "Close",
+    "pillars": [
+      {
+        "title": "Premium Agribusiness (Free-Range Chicken Farming)",
+        "description": "We are the primary specialist in providing Original Free-Range Chicken (Ayam Kampung Asli) with Super Quality in various sizes. Our products are generated through farming practices that ensure high hygiene and the use of organic feed, guaranteeing premium, healthy, and optimally nutritious meat quality. We supply Frozen and Live Free-Range Chicken in large volumes."
+      },
+      {
+        "title": "Trading of Consumption Needs",
+        "description": "We are engaged in the buying and selling of daily necessities for the community, covering primary and secondary consumer goods. Our main focus is on the distribution and provision of Cooking Oil to various market segments, ensuring the availability of quality products."
+      },
+      {
+        "title": "Partnership and Community Empowerment",
+        "description": "CV. Boenha is committed to community empowerment through efforts to provide sustainable employment. We are also proactive in facilitating business partnership needs for other parties seeking synergy and strategic connections within our supply chain."
+      }
+    ]
+  },
+  "chicken_benefits": {
+    "title": "Benefits of Original Free-Range Chicken with Organic Feed",
+    "subtitle": "Better Nutritional Composition",
+    "items": [
+      {
+        "emoji": "💪",
+        "title": "High Protein",
+        "description": "Rich in animal protein for muscle growth and recovery"
+      },
+      {
+        "emoji": "⚖️",
+        "title": "Lower Fat",
+        "description": "Lower total fat content compared to conventional chicken"
+      },
+      {
+        "emoji": "❤️",
+        "title": "Lower Cholesterol",
+        "description": "Lower cholesterol content for heart health"
+      },
+      {
+        "emoji": "🩸",
+        "title": "Rich in Iron",
+        "description": "Important for red blood cell formation and energy"
+      },
+      {
+        "emoji": "🧠",
+        "title": "B Complex Vitamins",
+        "description": "Good source of Vitamins B6 and B12 for optimal nerve function"
+      },
+      {
+        "emoji": "💎",
+        "title": "Essential Minerals",
+        "description": "Contains phosphorus and selenium for bone health and immunity"
+      }
+    ]
+  },
+  "farming_practices": {
+    "title": "Our Farming Practices",
+    "feed": {
+      "title": "About Our Feed",
+      "description": "We use high-quality natural feed that is guaranteed safe and healthy for the growth of free-range chickens. The feed used is specially processed to ensure optimal nutrition."
+    },
+    "coop": {
+      "title": "About Our Coops",
+      "description": "Our cage system is well-designed, prioritizing air circulation, cleanliness, and the comfort of the chickens. The coops are cleaned routinely to maintain hygiene."
+    },
+    "management": {
+      "title": "About Our Management",
+      "description": "Our farm management is conducted by an experienced team with regular monitoring of the chickens' health and growth."
+    }
+  },
+  "target_markets": {
+    "restaurants": "Restaurants",
+    "catering": "Catering",
+    "market_traders": "Market Traders",
+    "export": "Export"
+  },
+  "export": {
+    "title": "Export - Global Market Reach",
+    "description": "Our target market extends to the premium and health-conscious segments at a global level. CV Boenha not only focuses on the domestic market, but we are also ready to deliver our Super Quality Original Free-Range Chicken (Ayam Kampung Asli) with organic feed to various countries that require a supply of premium poultry protein."
+  },
+  "businessLines": {
+    "title": "Our Business Lines",
+    "subtitle": "Complete Solutions for All Your Business Needs",
+    "items": [
+      {
+        "title": "Free-Range Chicken Farming",
+        "description": "Specialist in cultivation and supply of high-quality free-range chicken with modern and hygienic farming systems."
+      }
+    ]
+  },
+  "products": {
+    "title": "Our Featured Products",
+    "subtitle": "Premium Quality for Your Business Needs",
+    "productSpecifications": "Specifications",
+    "chickenLive": {
+      "name": "Live Free-Range Chicken",
+      "description": "Ready to supply for market traders, restaurants, catering, and various business needs.",
+      "specifications": [
+        "Available weight 0,8 kg - 2 kg",
+        "Healthy and active chicken",
+        "High-quality natural feed",
+        "Halal certification"
+      ],
+      "ctaText": "Contact for Stock & Price"
+    },
+    "chickenCutup": {
+      "name": "Free-Range Chicken Cut-up",
+      "description": "Freshly cut, guaranteed Halal and Hygienic. Ready for all your culinary needs.",
+      "specifications": ["Whole Carcass", "Cut 4/8/10", "Fresh", "Frozen"],
+      "ctaText": "Order via WhatsApp"
+    }
+  },
+  "productBenefits": {
+    "title": "Our Product Advantages",
+    "subtitle": "Why Choose Our Products?",
+    "quality": {
+      "emoji": "🐔",
+      "title": "Premium Quality",
+      "description": "Healthy free-range chicken with the highest quality standards"
+    },
+    "halal": {
+      "emoji": "✓",
+      "title": "Halal & Hygienic",
+      "description": "Standard cutting process and guaranteed Halal"
+    },
+    "delivery": {
+      "emoji": "🚚",
+      "title": "Fast Delivery",
+      "description": "Quick and reliable delivery service"
+    },
+    "organic": {
+      "emoji": "🌿",
+      "title": "Organic Feed",
+      "description": "Raised with high-quality organic feed"
+    },
+    "nutritious": {
+      "emoji": "💪",
+      "title": "Highly Nutritious",
+      "description": "Optimal protein and nutrient content"
+    },
+    "fresh": {
+      "emoji": "✨",
+      "title": "Fresh Quality",
+      "description": "Hygienic process from farm to your table"
+    }
+  },
+  "gallery": {
+    "title": "Our Chicken Gallery",
+    "subtitle": "Premium Product Photo Collection",
+    "description": "View our collection of premium free-range chicken produced with the highest hygiene and cleanliness standards. Each photo showcases the quality and freshness of our guaranteed products.",
+    "cta": "See more or contact us for more details",
+    "viewProducts": "View Products",
+    "contactUs": "Contact Us",
+    "albums": {
+      "peternakan": {
+        "title": "Our Farm",
+        "description": "Photos of coops and healthy free-range chicken at our farm"
+      },
+      "proses": {
+        "title": "Process & Products",
+        "description": "Photos of cutting and product packaging process"
+      },
+      "distribusi": {
+        "title": "Distribution",
+        "description": "Photos of product delivery and distribution process"
+      }
+    },
+    "tabs": {
+      "peternakan": "Our Farm",
+      "proses": "Process & Products",
+      "distribusi": "Distribution"
+    }
+  },
+  "businessLinesCTA": {
+    "description": "Contact us now for the best offer"
+  },
+  "operatingHours": {
+    "title": "Operating Hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "hours": "08:00 - 16:00 WIB",
+    "closed": "Closed",
+    "note": "WhatsApp service available 24/7"
+  },
+  "cta": {
+    "viewProducts": "View Our Products",
+    "contactUs": "Contact Us",
+    "orderWhatsApp": "Order via WhatsApp",
+    "contactStock": "Contact for Stock & Pricing",
+    "interestedProduct": "Interested in Our Products?",
+    "contactNow": "Contact us now for the best offer",
+    "whatsAppNow": "WhatsApp Now",
+    "seeMore": "See more or contact us for more details",
+    "readyFulfill": "Ready to Fulfill Your Chicken Needs?",
+    "discussNeeds": "Discuss your needs with our team now"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "infoTitle": "Contact Information",
+    "infoSubtitle": "Please contact us through various communication channels below. Our team is ready to serve you quickly and responsively.",
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "followSocial": "Follow Our Social Media",
+    "whatsappCTA": "Contact via WhatsApp",
+    "locationMap": "Our Location",
+    "mapPlaceholder": "*Replace with actual location Google Maps embed"
+  },
+  "contactForm": {
+    "title": "Send Message",
+    "subtitle": "Fill in the form below and we will contact you via WhatsApp.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter your name",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "Example: 081234567890",
+    "messageLabel": "Needs / Message",
+    "messagePlaceholder": "Tell us about your needs...",
+    "sendButton": "Send via WhatsApp",
+    "disclaimer": "By filling out this form, you will be directed to WhatsApp to continue conversation with our team.",
+    "required": "*"
+  },
+  "footer": {
+    "company_name": "CV. Boenha Makmur Utama",
+    "subtitle": "Quality and Trust in Every Line of Business",
+    "quickLinks": "Quick Links",
+    "businessLines": "Business Lines",
+    "contactInfo": "Contact Us",
+    "copyright": "© 2024 CV. Boenha Makmur Utama. All Rights Reserved."
+  },
+  "testimonials": {
+    "title": "Customer Testimonials",
+    "subtitle": "Customer satisfaction is our top priority",
+    "items": [
+      {
+        "name": "Budi Santoso",
+        "business": "Restaurant Owner",
+        "message": "The free-range chicken from CV. Boenha is of excellent quality. Our customers are very satisfied with the taste and freshness of the product. The delivery service is also very responsive.",
+        "rating": 5
+      },
+      {
+        "name": "Siti Nurhaliza",
+        "business": "Catering Service",
+        "message": "Competitive prices and guaranteed quality. I have been a loyal customer of CV. Boenha for 2 years. Never disappointing.",
+        "rating": 5
+      },
+      {
+        "name": "Ahmad Wijaya",
+        "business": "Market Trader",
+        "message": "Reliable supplier for my business needs. Products are always fresh and quality. Their customer service team is friendly and professional.",
+        "rating": 5
+      }
+    ]
+  },
+  "features": {
+    "title": "Complete Solutions for All Your Business Needs",
+    "subtitle": "We provide comprehensive solutions for all your business requirements",
+    "items": [
+      {
+        "title": "Fresh Premium Quality Chicken",
+        "description": "Live and cut free-range chicken with the highest quality standards, raised with the best organic feed."
+      },
+      {
+        "title": "Competitive & Affordable Prices",
+        "description": "We offer competitive prices without compromising on product quality."
+      },
+      {
+        "title": "Timely Delivery",
+        "description": "Efficient logistics system ensures products arrive quickly and in prime condition."
+      },
+      {
+        "title": "Flexible Ordering",
+        "description": "We serve orders in large or small quantities according to your business needs."
+      },
+      {
+        "title": "24/7 Customer Support",
+        "description": "Our team is ready to assist you anytime through WhatsApp and other communication channels."
+      },
+      {
+        "title": "Halal & Hygiene Standards",
+        "description": "All products are guaranteed halal and processed with very strict hygiene standards."
+      }
+    ]
+  },
+  "liniBisnis": {
+    "title": "Free-Range Chicken Farming & Supply Specialist",
+    "intro": "CV. Boenha Makmur Utama is a specialist in the cultivation and supply of high-quality free-range chicken. We have a modern farming system with strict hygiene standards to ensure the best product quality."
+  },
+  "targetMarkets": {
+    "title": "Target Markets",
+    "items": [
+      {
+        "emoji": "🍽️",
+        "title": "Restaurants",
+        "desc": "Supply fresh free-range chicken for restaurant and food service menus."
+      },
+      {
+        "emoji": "🍱",
+        "title": "Catering",
+        "desc": "Reliable supply for catering businesses and event organizers."
+      },
+      {
+        "emoji": "🏪",
+        "title": "Market Traders",
+        "desc": "Trusted partner for traditional and modern market traders."
+      },
+      {
+        "emoji": "🌍",
+        "title": "Export",
+        "desc": "Premium and health-conscious target market at global level with super quality."
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "lini_bisnis": "Lini Bisnis",
+    "products": "Produk Unggulan",
+    "gallery": "Galeri",
+    "contact": "Hubungi Kami"
+  },
+  "hero": {
+    "title": "Penyedia Solusi Kebutuhan Dasar & Pembangunan Ekonomi Lokal",
+    "intro": "Agribisnis Premium, Perdagangan Kebutuhan Konsumsi, dan Kemitraan Pemberdayaan Masyarakat",
+    "about": "CV. Boenha Makmur Utama merupakan spesialis dalam budidaya dan suplai ayam kampung berkualitas tinggi. Kami memiliki sistem peternakan yang modern dengan standar higienis yang ketat untuk memastikan kualitas produk terbaik.",
+    "btnProducts": "Lihat Produk Kami",
+    "btnContact": "Hubungi Kami",
+    "pillarTitle": "Tiga Pilar Bisnis Kami",
+    "readMore": "Baca Selengkapnya",
+    "close": "Tutup",
+    "pillars": [
+      {
+        "title": "Agribisnis Premium (Peternakan Ayam Kampung)",
+        "description": "Kami adalah spesialis utama dalam penyediaan Ayam Kampung Asli dengan Kualitas Super dengan berbagai ukuran. Produk kami dihasilkan melalui praktik peternakan yang menjamin kebersihan tinggi dan penggunaan pakan organik, memastikan kualitas daging premium, sehat, dan bergizi optimal. Kami melayani pasokan Ayam Kampung Frozen maupun Hidup dalam volume besar."
+      },
+      {
+        "title": "Perdagangan Kebutuhan Konsumsi",
+        "description": "Kami berkiprah dalam layanan jual beli kebutuhan sehari-hari masyarakat, mencakup barang-barang konsumsi primer dan sekunder. Fokus utama kami adalah pada distribusi dan penyediaan Minyak Sayur ke berbagai segmen pasar, menjamin ketersediaan produk berkualitas."
+      },
+      {
+        "title": "Kemitraan dan Pemberdayaan Masyarakat",
+        "description": "CV. Boenha berkomitmen pada pemberdayaan masyarakat melalui upaya penyediaan lapangan kerja yang berkelanjutan. Kami juga proaktif memfasilitasi kebutuhan kemitraan bisnis bagi pihak lain yang mencari sinergi dan koneksi strategis dalam rantai pasok kami."
+      }
+    ]
+  },
+  "chicken_benefits": {
+    "title": "Manfaat Ayam Kampung Asli dengan Pakan Organik",
+    "subtitle": "Komposisi Nutrisi yang Lebih Baik",
+    "items": [
+      {
+        "emoji": "💪",
+        "title": "Protein Tinggi",
+        "description": "Kaya akan protein hewani untuk pertumbuhan dan pemulihan otot"
+      },
+      {
+        "emoji": "⚖️",
+        "title": "Lemak Lebih Rendah",
+        "description": "Kandungan lemak total lebih rendah dibanding ayam konvensional"
+      },
+      {
+        "emoji": "❤️",
+        "title": "Rendah Kolesterol",
+        "description": "Kandungan kolesterol yang lebih rendah untuk kesehatan jantung"
+      },
+      {
+        "emoji": "🩸",
+        "title": "Kaya Zat Besi",
+        "description": "Penting untuk pembentukan sel darah merah dan energi"
+      },
+      {
+        "emoji": "🧠",
+        "title": "Vitamin B Kompleks",
+        "description": "Sumber Vitamin B6 dan B12 untuk fungsi saraf optimal"
+      },
+      {
+        "emoji": "💎",
+        "title": "Mineral Penting",
+        "description": "Mengandung fosfor dan selenium untuk tulang dan imunitas"
+      }
+    ]
+  },
+  "farming_practices": {
+    "title": "Praktik Peternakan Kami",
+    "feed": {
+      "title": "Tentang Pakan",
+      "description": "Kami menggunakan pakan alami berkualitas tinggi yang dijamin aman dan sehat untuk pertumbuhan ayam kampung. Pakan yang digunakan diolah khusus untuk memastikan nutrisi optimal."
+    },
+    "coop": {
+      "title": "Tentang Kandang",
+      "description": "Sistem kandang kami dirancang dengan baik, mengutamakan sirkulasi udara, kebersihan, dan kenyamanan ayam. Kandang dibersihkan secara rutin untuk menjaga higienisitas."
+    },
+    "management": {
+      "title": "Tentang Manajemen",
+      "description": "Manajemen peternakan kami dilakukan oleh tim yang berpengalaman dengan pemantauan berkala terhadap kesehatan dan pertumbuhan ayam."
+    }
+  },
+  "target_markets": {
+    "restaurants": "Restoran",
+    "catering": "Katering",
+    "market_traders": "Pedagang Pasar",
+    "export": "Ekspor"
+  },
+  "export": {
+    "title": "Ekspor - Target Pasar Global",
+    "description": "Target pasar kami meluas ke segmen premium dan health-conscious di tingkat global. CV Boenha tidak hanya berfokus pada pasar domestik, tetapi kami juga siap mengirimkan Ayam Kampung Asli kualitas super dengan pakan organik ke berbagai negara yang membutuhkan pasokan protein unggas premium."
+  },
+  "businessLines": {
+    "title": "Lini Bisnis Kami",
+    "subtitle": "Solusi Lengkap untuk Berbagai Kebutuhan Bisnis Anda",
+    "items": [
+      {
+        "title": "Peternakan Ayam Kampung",
+        "description": "Spesialis budidaya dan suplai ayam kampung berkualitas tinggi dengan sistem peternakan modern dan higienis."
+      }
+    ]
+  },
+  "products": {
+    "title": "Produk Unggulan Kami",
+    "subtitle": "Kualitas Premium untuk Kebutuhan Bisnis Anda",
+    "productSpecifications": "Spesifikasi",
+    "chickenLive": {
+      "name": "Ayam Kampung Hidup",
+      "description": "Siap suplai untuk pedagang pasar, restoran, katering, dan berbagai kebutuhan bisnis Anda.",
+      "specifications": [
+        "Tersedia bobot 0,8 kg - 2 kg",
+        "Ayam sehat dan aktif",
+        "Pakan alami berkualitas tinggi",
+        "Sertifikasi halal"
+      ],
+      "ctaText": "Hubungi untuk Stok & Harga"
+    },
+    "chickenCutup": {
+      "name": "Ayam Kampung Potong ",
+      "description": "Dipotong segar, dijamin Halal dan Higienis. Siap untuk berbagai kebutuhan kuliner Anda.",
+      "specifications": [
+        "Karkas Utuh",
+        "Potong 4/8/10",
+        "Segar (Fresh)",
+        "Beku (Frozen)"
+      ],
+      "ctaText": "Pesan via WhatsApp"
+    }
+  },
+  "productBenefits": {
+    "title": "Keunggulan Produk Kami",
+    "subtitle": "Mengapa Tertarik dengan Produk Kami?",
+    "quality": {
+      "emoji": "🐔",
+      "title": "Kualitas Premium",
+      "description": "Ayam kampung sehat dengan standar kualitas terbaik"
+    },
+    "halal": {
+      "emoji": "✓",
+      "title": "Halal & Higienis",
+      "description": "Proses pemotongan terstandar dan dijamin halal"
+    },
+    "delivery": {
+      "emoji": "🚚",
+      "title": "Pengiriman Cepat",
+      "description": "Layanan pengiriman yang cepat dan terpercaya"
+    },
+    "organic": {
+      "emoji": "🌿",
+      "title": "Pakan Organik",
+      "description": "Dipelihara dengan pakan organik berkualitas tinggi"
+    },
+    "nutritious": {
+      "emoji": "💪",
+      "title": "Bergizi Tinggi",
+      "description": "Kandungan protein dan nutrisi lebih optimal"
+    },
+    "fresh": {
+      "emoji": "✨",
+      "title": "Segar Berkualitas",
+      "description": "Proses higienis dari kandang hingga ke tangan Anda"
+    }
+  },
+  "gallery": {
+    "title": "Galeri Ayam Kami",
+    "subtitle": "Koleksi Foto Produk Berkualitas",
+    "description": "Lihat berbagai koleksi ayam kampung premium kami yang diproduksi dengan standar higienis dan kebersihan tertinggi. Setiap foto menampilkan kualitas dan kesegaran produk yang kami jamin.",
+    "cta": "Lihat lebih lanjut atau hubungi kami untuk informasi lebih detail",
+    "viewProducts": "Lihat Produk",
+    "contactUs": "Hubungi Kami",
+    "albums": {
+      "peternakan": {
+        "title": "Peternakan Kami",
+        "description": "Foto kandang dan ayam kampung sehat di peternakan kami"
+      },
+      "proses": {
+        "title": "Proses & Produk",
+        "description": "Foto proses pemotongan dan packaging produk"
+      },
+      "distribusi": {
+        "title": "Distribusi",
+        "description": "Foto proses pengiriman dan distribusi produk"
+      }
+    },
+    "tabs": {
+      "peternakan": "Peternakan Kami",
+      "proses": "Proses & Produk",
+      "distribusi": "Distribusi"
+    }
+  },
+  "businessLinesCTA": {
+    "description": "Hubungi kami sekarang untuk mendapatkan penawaran terbaik"
+  },
+  "operatingHours": {
+    "title": "Jam Operasional",
+    "monday": "Senin",
+    "tuesday": "Selasa",
+    "wednesday": "Rabu",
+    "thursday": "Kamis",
+    "friday": "Jumat",
+    "saturday": "Sabtu",
+    "sunday": "Minggu",
+    "hours": "08:00 - 16:00 WIB",
+    "closed": "Tutup",
+    "note": "Layanan WhatsApp tersedia 24/7"
+  },
+  "cta": {
+    "viewProducts": "Lihat Produk Kami",
+    "contactUs": "Hubungi Kami",
+    "orderWhatsApp": "Pesan via WhatsApp",
+    "contactStock": "Hubungi untuk Stok & Harga",
+    "interestedProduct": "Tertarik dengan Produk Kami?",
+    "contactNow": "Hubungi kami sekarang untuk mendapatkan penawaran terbaik",
+    "whatsAppNow": "WhatsApp Sekarang",
+    "seeMore": "Lihat lebih lanjut atau hubungi kami untuk informasi lebih detail",
+    "readyFulfill": "Siap Memenuhi Kebutuhan Ayam Kampung Anda?",
+    "discussNeeds": "Diskusikan kebutuhan Anda dengan tim kami sekarang"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "infoTitle": "Informasi Kontak",
+    "infoSubtitle": "Silakan hubungi kami melalui berbagai channel komunikasi di bawah ini. Tim kami siap melayani Anda dengan cepat dan responsif.",
+    "address": "Alamat",
+    "email": "Email",
+    "phone": "Telepon",
+    "whatsapp": "WhatsApp",
+    "followSocial": "Ikuti Media Sosial Kami",
+    "whatsappCTA": "Hubungi via WhatsApp",
+    "locationMap": "Lokasi Kami",
+    "mapPlaceholder": "*Ganti dengan embed Google Maps lokasi sebenarnya"
+  },
+  "contactForm": {
+    "title": "Kirim Pesan",
+    "subtitle": "Isi formulir di bawah ini dan kami akan menghubungi Anda melalui WhatsApp.",
+    "nameLabel": "Nama",
+    "namePlaceholder": "Masukkan nama Anda",
+    "phoneLabel": "No. HP",
+    "phonePlaceholder": "Contoh: 081234567890",
+    "messageLabel": "Kebutuhan / Pesan",
+    "messagePlaceholder": "Ceritakan kebutuhan Anda...",
+    "sendButton": "Kirim via WhatsApp",
+    "disclaimer": "Dengan mengisi formulir ini, Anda akan diarahkan ke WhatsApp untuk melanjutkan percakapan dengan tim kami.",
+    "required": "*"
+  },
+  "footer": {
+    "company_name": "CV. Boenha Makmur Utama",
+    "subtitle": "Kualitas dan Kepercayaan di Setiap Lini Usaha",
+    "quickLinks": "Tautan Cepat",
+    "businessLines": "Lini Bisnis",
+    "contactInfo": "Kontak Kami",
+    "copyright": "© 2024 CV. Boenha Makmur Utama. Semua Hak Dilindungi."
+  },
+  "testimonials": {
+    "title": "Testimoni Pelanggan",
+    "subtitle": "Kepuasan pelanggan adalah prioritas utama kami",
+    "items": [
+      {
+        "name": "Budi Santoso",
+        "business": "Pemilik Restoran",
+        "message": "Ayam kampung dari CV. Boenha sangat berkualitas. Pelanggan kami sangat puas dengan rasa dan kesegaran produknya. Layanan pengiriman juga sangat responsif.",
+        "rating": 5
+      },
+      {
+        "name": "Siti Nurhaliza",
+        "business": "Catering Service",
+        "message": "Harga kompetitif dan kualitas terjamin. Saya sudah menjadi pelanggan setia CV. Boenha selama 2 tahun. Tidak pernah mengecewakan.",
+        "rating": 5
+      },
+      {
+        "name": "Ahmad Wijaya",
+        "business": "Pedagang Pasar",
+        "message": "Supplier terpercaya untuk kebutuhan bisnis saya. Produk selalu segar dan berkualitas. Tim customer service mereka ramah dan profesional.",
+        "rating": 5
+      }
+    ]
+  },
+  "features": {
+    "title": "Solusi Lengkap untuk Berbagai Kebutuhan Bisnis Anda",
+    "subtitle": "Kami menyediakan solusi komprehensif untuk semua kebutuhan bisnis Anda",
+    "items": [
+      {
+        "title": "Ayam Segar Berkualitas Premium",
+        "description": "Ayam kampung hidup dan potong dengan standar kualitas tertinggi, dipelihara dengan pakan organik terbaik."
+      },
+      {
+        "title": "Harga Kompetitif & Terjangkau",
+        "description": "Kami menawarkan harga yang kompetitif tanpa mengorbankan kualitas produk."
+      },
+      {
+        "title": "Pengiriman Tepat Waktu",
+        "description": "Sistem logistik yang efisien memastikan produk sampai dengan cepat dan dalam kondisi prima."
+      },
+      {
+        "title": "Fleksibilitas Pemesanan",
+        "description": "Kami melayani pemesanan dalam jumlah besar maupun kecil sesuai kebutuhan bisnis Anda."
+      },
+      {
+        "title": "Dukungan Pelanggan 24/7",
+        "description": "Tim kami siap membantu Anda kapan saja melalui WhatsApp dan channel komunikasi lainnya."
+      },
+      {
+        "title": "Standar Kehalalan & Higienis",
+        "description": "Semua produk dijamin halal dan diproses dengan standar higienis yang sangat ketat."
+      }
+    ]
+  },
+  "liniBisnis": {
+    "title": "Spesialis Budidaya & Suplai Ayam Kampung",
+    "intro": "CV. Boenha Makmur Utama merupakan spesialis dalam budidaya dan suplai ayam kampung berkualitas tinggi. Kami memiliki sistem peternakan yang modern dengan standar higienis yang ketat untuk memastikan kualitas produk terbaik."
+  },
+  "targetMarkets": {
+    "title": "Target Pasar",
+    "items": [
+      {
+        "emoji": "🍽️",
+        "title": "Restoran",
+        "desc": "Menyediakan ayam kampung segar untuk kebutuhan menu restoran dan rumah makan."
+      },
+      {
+        "emoji": "🍱",
+        "title": "Katering",
+        "desc": "Suplai terpercaya untuk bisnis katering dan event organizer."
+      },
+      {
+        "emoji": "🏪",
+        "title": "Pedagang Pasar",
+        "desc": "Partner terpercaya untuk pedagang pasar tradisional dan modern."
+      },
+      {
+        "emoji": "🌍",
+        "title": "Ekspor",
+        "desc": "Target pasar premium dan health-conscious di tingkat global dengan kualitas super."
+      }
+    ]
+  }
+}
