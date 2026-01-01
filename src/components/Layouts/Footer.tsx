@@ -102,7 +102,7 @@ export default function Footer() {
                 <FaEnvelope className="shrink-0 text-amber-400 group-hover:scale-125 transition-transform" />
                 <a
                   href={SOCIAL_LINKS.email}
-                  className="text-gray-300 hover:text-amber-400 transition-colors text-sm break-all"
+                  className="text-gray-300 hover:text-amber-400 transition-colors text-sm "
                 >
                   {COMPANY_INFO.email}
                 </a>
