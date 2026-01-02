@@ -22,7 +22,6 @@ export default function Navbar() {
   const pathname = usePathname();
   const { t } = useTranslation();
 
-  // Handle locale in pathname (e.g., /id/ or /en/)
   const pathWithoutLocale = pathname.replace(/^\/(id|en)/, "");
   const isActive = (path: string) =>
     pathWithoutLocale === path || (path === "/" && pathWithoutLocale === "");
@@ -59,7 +58,7 @@ export default function Navbar() {
             </div>
 
             <button
-              className="md:hidden p-2 text-slate-700"
+              className="md:hidden p-2 text-slate-900 cursor-pointer"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
               aria-label="Toggle menu"
             >
@@ -69,7 +68,7 @@ export default function Navbar() {
         </div>
 
         {isMenuOpen && (
-          <div className="md:hidden bg-white/95 backdrop-blur-md border-t">
+          <div className="md:hidden bg-white/95 backdrop-blur-md border-t border-[#fc812b]">
             <div className="px-4 pt-2 pb-4 space-y-1">
               {NAV_LINKS.map((link) => (
                 <Link
@@ -88,13 +87,6 @@ export default function Navbar() {
               <div className="px-4 pt-2 pb-4">
                 <LanguageSwitcher />
               </div>
-              <Link
-                href={ROUTES.CONTACT}
-                onClick={() => setIsMenuOpen(false)}
-                className="block px-4 py-2 mt-2 bg-orange-500 text-white rounded-lg text-sm font-medium text-center hover:bg-orange-600 transition-colors"
-              >
-                {t("nav.contact")}
-              </Link>
             </div>
           </div>
         )}
