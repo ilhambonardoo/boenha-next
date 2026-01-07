@@ -333,5 +333,21 @@
         "desc": "Target pasar premium dan health-conscious di tingkat global dengan kualitas super."
       }
     ]
+  },
+  "notfound": {
+    "title": "404 - Halaman Tidak Ditemukan",
+    "subtitle": "Maaf, halaman yang Anda cari tidak dapat ditemukan.",
+    "description": "Halaman yang Anda tuju mungkin telah dipindahkan, dihapus, atau URL yang dimasukkan salah.",
+    "btnHome": "Kembali ke Beranda",
+    "btnContact": "Hubungi Kami",
+    "suggestions": {
+      "title": "Mungkin Anda mencari:",
+      "items": [
+        "Produk Unggulan Kami",
+        "Lini Bisnis",
+        "Galeri Foto",
+        "Informasi Kontak"
+      ]
+    }
   }
 }
