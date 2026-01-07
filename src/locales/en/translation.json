@@ -328,5 +328,21 @@
         "desc": "Premium and health-conscious target market at global level with super quality."
       }
     ]
+  },
+  "notfound": {
+    "title": "404 - Page Not Found",
+    "subtitle": "Sorry, the page you are looking for could not be found.",
+    "description": "The page you are looking for might have been moved, deleted, or the URL entered is incorrect.",
+    "btnHome": "Back to Home",
+    "btnContact": "Contact Us",
+    "suggestions": {
+      "title": "You might be looking for:",
+      "items": [
+        "Our Featured Products",
+        "Business Lines",
+        "Photo Gallery",
+        "Contact Information"
+      ]
+    }
   }
 }
