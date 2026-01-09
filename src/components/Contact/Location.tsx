@@ -21,7 +21,7 @@ const Location = () => {
         className="rounded-xl overflow-hidden shadow-lg border border-gray-200 aspect-video"
       >
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.521631492915!2d106.7295240103712!3d-6.827880166759732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68330028479673%3A0xb4ac3d0f757bf89a!2sFarm%2077!5e0!3m2!1sen!2sid!4v1765707298329!5m2!1sen!2sid"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.605784475588!2d106.7453958!3d-6.8177077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6833ee5a73c60d%3A0xc22cbd0f4d107210!2sCV%20BOENHA%20MAKMUR%20UTAMA!5e0!3m2!1sen!2sid!4v1767946191592!5m2!1sen!2sid"
           width="100%"
           height="100%"
           style={{ border: 0 }}

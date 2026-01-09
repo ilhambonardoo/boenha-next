@@ -4,7 +4,6 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaWhatsapp } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
-import { SOCIAL_LINKS } from "@/constants";
 
 const ContactForm = () => {
   const { t } = useTranslation();
@@ -17,7 +16,8 @@ const ContactForm = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const message = `Halo, saya ${formData.name} (${formData.phone}). ${formData.message}`;
-    const whatsappUrl = `${SOCIAL_LINKS.whatsapp}&text=${encodeURIComponent(
+    const phoneNumber = "6282315403127";
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
       message
     )}`;
     window.open(whatsappUrl, "_blank");
